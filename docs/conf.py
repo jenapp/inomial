@@ -85,6 +85,8 @@ html_logo = 'logo.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
+    'collapse_navigation': False,
+    'navigation_depth': -1,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
