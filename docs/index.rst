@@ -7,14 +7,16 @@ Welcome to Smile's documentation!
 =================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: GraphQL:
+   :hidden:
+   
+   graphql/graphql-intro
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+   ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
