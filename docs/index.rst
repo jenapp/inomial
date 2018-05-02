@@ -7,7 +7,7 @@ Welcome to Smile's documentation!
 =================================
 
 .. toctree::
-   :caption: GraphQL:
+   :caption: GraphQL
    :hidden:
    
    graphql/graphql-intro
