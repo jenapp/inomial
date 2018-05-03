@@ -7,4 +7,5 @@ Many options for implementation on the server and client side are available.
 
 GraphQL was internally developed by Facebook. It was publicly released in 2015.
 
-For more information see `GraphQL.org <https://graphql.org>`.
+For more information see `GraphQL.org
+<https://graphql.org>`_.
