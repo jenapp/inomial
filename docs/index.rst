@@ -12,6 +12,13 @@ Welcome to Smile's documentation!
    
    graphql/graphql-intro
 
+.. toctree::
+   :caption: REST APIs
+   :hidden:
+   
+   apis/create
+
+
 
 
 .. Indices and tables
