@@ -17,6 +17,8 @@ Welcome to Smile's documentation!
    :hidden:
    
    apis/create
+   apis/account
+   apis/subscription
 
 
 
