@@ -11,6 +11,7 @@ Welcome to Smile's documentation!
    :hidden:
    
    graphql/graphql-intro
+   graphql/resources
 
 .. toctree::
    :caption: REST APIs
