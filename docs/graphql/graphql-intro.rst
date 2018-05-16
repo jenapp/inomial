@@ -16,3 +16,5 @@ Why is Inomial using GraphQL?
 -----------------------------
 
 Inomial chose GraphQL because..
+
+Our GraphQL API is accessed by a GraphiQL console. GraphiQL is an interactive in-browser Integrated Development Environment (IDE) for interacting with GraphQL API calls, enabling the means to query data and perform mutations.
