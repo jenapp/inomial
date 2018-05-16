@@ -12,6 +12,15 @@ Welcome to Smile's documentation!
    
    graphql/graphql-intro
    graphql/resources
+   Query <graphql/query>
+   Mutations <graphql/mutations>
+   Objects <graphql/objects>
+   Interfaces <graphql/interfaces>
+   Enums <graphql/enums>
+   Unions <graphql/unions>
+   Input Objects <graphql/input-objects>
+   Scalars <graphql/scalars>
+
 
 .. toctree::
    :caption: REST APIs
