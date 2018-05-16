@@ -1,5 +1,6 @@
-GraphQL resources
-=================
+Resources
+=========
 
-- `GraphQL Basics
-<https://www.okgrow.com/posts/graphql-basics/>`_.
+- `GraphQL Basics`_
+
+.. _GraphQL Basics: https://www.okgrow.com/posts/graphql-basics
