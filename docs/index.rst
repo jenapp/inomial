@@ -21,7 +21,14 @@ Welcome to Smile's documentation!
    Input Objects <graphql/input-objects>
    Scalars <graphql/scalars>
 
-
+.. toctree::
+   :caption: Directives
+   :hidden:
+   
+   include <graphql/directives/include>
+   skip <graphql/directives/skip>
+      
+   
 .. toctree::
    :caption: REST APIs
    :hidden:
