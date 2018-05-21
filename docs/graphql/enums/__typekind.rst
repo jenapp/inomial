@@ -31,7 +31,7 @@ __TypeKind
   }
   
   
-  Required by
+Required by
 -----------
 
 __Type
