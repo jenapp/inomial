@@ -35,4 +35,4 @@ __TypeKind
 -----------
 
 __Type
-   null
+   *null*
