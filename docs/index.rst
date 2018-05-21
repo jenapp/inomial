@@ -22,6 +22,13 @@ Welcome to Smile's documentation!
    Scalars <graphql/scalars>
 
 .. toctree::
+   :caption: Enums
+   :hidden:
+   
+   __DirectiveLocation <graphql/enums/__directivelocation>
+   __TypeKind <graphql/enums/__typekind>
+      
+.. toctree::
    :caption: Directives
    :hidden:
    
