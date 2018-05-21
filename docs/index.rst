@@ -14,12 +14,18 @@ Welcome to Smile's documentation!
    graphql/resources
    Query <graphql/query>
    Mutations <graphql/mutations>
-   Objects <graphql/objects>
    Interfaces <graphql/interfaces>
-   Enums <graphql/enums>
    Unions <graphql/unions>
    Input Objects <graphql/input-objects>
    Scalars <graphql/scalars>
+
+.. toctree::
+   :caption: Object
+   :hidden:
+   
+   __Directive <graphql/object/__directive>
+   __Type <graphql/object/__type>
+
 
 .. toctree::
    :caption: Enums
@@ -27,7 +33,8 @@ Welcome to Smile's documentation!
    
    __DirectiveLocation <graphql/enums/__directivelocation>
    __TypeKind <graphql/enums/__typekind>
-      
+
+
 .. toctree::
    :caption: Directives
    :hidden:
