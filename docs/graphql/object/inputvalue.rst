@@ -1,4 +1,4 @@
-.. _InputvValue:
+.. _InputValue:
 
 __InputValue
 ============
