@@ -59,5 +59,7 @@ An enum describing valid locations where a directive can be placed
 Required by
 -----------
 
-__Directive
+`__Directive`_
    *null*
+
+.. ___Directive: /object/__directive.rst
