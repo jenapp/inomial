@@ -59,8 +59,5 @@ An enum describing valid locations where a directive can be placed
 Required by
 -----------
 
-__`Directive`_
+:ref:`__Directive`
    *null*
-
-
-.. _Directive: ./object/directive
