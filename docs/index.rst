@@ -17,7 +17,19 @@ Welcome to Smile's documentation!
    Interfaces <graphql/interfaces>
    Unions <graphql/unions>
    Input Objects <graphql/input-objects>
-   Scalars <graphql/scalars>
+
+
+.. toctree::
+   :caption: Scalars
+   :hidden:
+   
+   BigDecimal <graphql/scalars/BigDecimal>
+   Boolean <graphql/scalars/boolean>
+   Int <graphql/scalars/int>
+   Long <graphql/scalars/long>
+   Millisecond <graphql/scalars/millisecond>
+   String <graphql/scalars/string>
+   UUID <graphql/scalars/uuid>
 
 .. toctree::
    :caption: Object
