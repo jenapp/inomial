@@ -1,4 +1,4 @@
-.. _directive:
+.. _Directive:
 
 __Directive
 ===========
