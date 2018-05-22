@@ -24,6 +24,7 @@ Welcome to Smile's documentation!
    :hidden:
    
    __Directive <graphql/object/directive>
+   __Schema <graphql/object/schema>
    __Type <graphql/object/type>
 
 
