@@ -34,5 +34,5 @@ __TypeKind
 Required by
 -----------
 
-__Type
+:ref:`type`
    *null*
