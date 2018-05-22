@@ -46,7 +46,7 @@ Required by
   *AllInvoiceItemCursor*
 
 :ref:`allplancursor`
-AllPlanCursor*
+  *AllPlanCursor*
 
 :ref:`allsubscriptioncursor`
   *AllSubscriptionCursor*
@@ -123,7 +123,7 @@ AllPlanCursor*
 :ref:`subscriptionbindingcursor`
   *null*
 
-ref:`subscriptionbindingfilter`
+:ref:`subscriptionbindingfilter`
   *null*
   
 :ref:`subscriptioncursor`
