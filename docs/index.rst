@@ -23,16 +23,16 @@ Welcome to Smile's documentation!
    :caption: Object
    :hidden:
    
-   __Directive <graphql/object/__directive>
-   __Type <graphql/object/__type>
+   __Directive <graphql/object/directive>
+   __Type <graphql/object/type>
 
 
 .. toctree::
    :caption: Enums
    :hidden:
    
-   __DirectiveLocation <graphql/enums/__directivelocation>
-   __TypeKind <graphql/enums/__typekind>
+   __DirectiveLocation <graphql/enums/directivelocation>
+   __TypeKind <graphql/enums/typekind>
 
 
 .. toctree::
