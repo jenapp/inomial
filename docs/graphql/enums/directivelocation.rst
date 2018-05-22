@@ -1,7 +1,7 @@
 __DirectiveLocation
 ===================
 
-An enum describing valid locations where a directive can be placed
+An enum describing valid locations where a directive can be placed.
 
 ::
 
