@@ -23,7 +23,7 @@ Welcome to Smile's documentation!
    :caption: Scalars
    :hidden:
    
-   BigDecimal <graphql/scalars/BigDecimal>
+   BigDecimal <graphql/scalars/bigdecimal>
    Boolean <graphql/scalars/boolean>
    Int <graphql/scalars/int>
    Long <graphql/scalars/long>
