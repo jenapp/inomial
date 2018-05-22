@@ -25,5 +25,6 @@ __Directive
 
 Required by
 -----------
-__Schema
+
+:ref:`Schema`
    *A GraphQL Introspection defines the capabilities of a GraphQL server. It exposes all available types and directives on the server, the entry points for query, mutation, and subscription operations.*
