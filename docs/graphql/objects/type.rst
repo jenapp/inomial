@@ -1,4 +1,4 @@
-.. _Type:
+.. _type:
 
 __Type
 ======
@@ -35,11 +35,11 @@ __Type
 Required by
 -----------
 
-:ref:`Field`
+:ref:`field`
    *null*
-:ref:`InputValue`
+:ref:`inputvalue`
    *null*
-:ref:`Schema`
+:ref:`schema`
    *A GraphQL Introspection defines the capabilities of a GraphQL server. It exposes all available types and directives on the server, the entry points for query, mutation, and subscription operations.*
-:ref:`Type`
+:ref:`type`
    *null*
