@@ -1,4 +1,4 @@
-.. _Directive:
+.. _directive:
 
 __Directive
 ===========
@@ -26,5 +26,5 @@ __Directive
 Required by
 -----------
 
-:ref:`Schema`
+:ref:`schema`
    *A GraphQL Introspection defines the capabilities of a GraphQL server. It exposes all available types and directives on the server, the entry points for query, mutation, and subscription operations.*
