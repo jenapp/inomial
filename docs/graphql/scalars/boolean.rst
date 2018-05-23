@@ -65,14 +65,14 @@ Required by
 :ref:`txitemfilter`
   *null*
   
-:ref:`Directive`
+:ref:`directive`
   *null*
   
 :ref:`enumvalue`
   *null*
   
-:ref:`Field`
+:ref:`field`
    *null*
    
-:ref:`Type`
+:ref:`type`
    *null*
