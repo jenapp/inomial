@@ -1,4 +1,4 @@
-.. _InputValue:
+.. _inputvalue:
 
 __InputValue
 ============
@@ -20,11 +20,11 @@ __InputValue
 Require by
 ----------
 
-:ref:`Directive`
+:ref:`directive`
   *null*
   
-:ref:`Field`
+:ref:`field`
   *null*
   
-:ref:`Type`
+:ref:`type`
   *null*
