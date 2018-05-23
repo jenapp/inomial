@@ -12,12 +12,14 @@ Welcome to Smile's documentation!
    
    graphql/graphql-intro
    graphql/resources
-   Query <graphql/query>
-   Mutations <graphql/mutations>
-   Interfaces <graphql/interfaces>
-   Unions <graphql/unions>
-   Input Objects <graphql/input-objects>
 
+   
+.. toctree::
+   :caption: Schema
+   :hidden:
+   
+   Query <graphql/query>
+  
 
 .. toctree::
    :caption: Scalars
@@ -30,6 +32,14 @@ Welcome to Smile's documentation!
    Milliseconds <graphql/scalars/milliseconds>
    String <graphql/scalars/string>
    UUID <graphql/scalars/uuid>
+
+
+.. toctree::
+   :caption: Enums
+   :hidden:
+   
+   __DirectiveLocation <graphql/enums/directivelocation>
+   __TypeKind <graphql/enums/typekind>
 
 
 .. toctree::
@@ -79,13 +89,13 @@ Welcome to Smile's documentation!
 
 
 .. toctree::
-   :caption: Enums
+   :caption: Input objects
    :hidden:
    
-   __DirectiveLocation <graphql/enums/directivelocation>
-   __TypeKind <graphql/enums/typekind>
-
-
+    <graphql/inputobjects/>
+    <graphql/inputobjects/>
+      
+      
 .. toctree::
    :caption: Directives
    :hidden:
