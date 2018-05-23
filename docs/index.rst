@@ -92,10 +92,27 @@ Welcome to Smile's documentation!
    :caption: Input objects
    :hidden:
    
-    <graphql/inputobjects/>
-    <graphql/inputobjects/>
-      
-      
+   AccountAddressFilter <graphql/inputobjects/accountaddressfilter>
+   AccountContactFilter <graphql/inputobjects/accountcontactfilter>
+   AccountCostCentreFilter <graphql/inputobjects/accountcostcentrefilter>
+   AccountFilter <graphql/inputobjects/accountfilter>      
+   BindingFilter <graphql/inputobjects/bindingfilter>
+   CdrErrorFilter <graphql/inputobjects/cdrerrorfilter> 
+   CdrFilter<graphql/inputobjects/cdrfilter>
+   DraftInvoiceFilter <graphql/inputobjects/draftinvoicefilter>
+   ItemSpecificationFilter <graphql/inputobjects/itemspecificationfilter>
+   PaymentMethodFilter <graphql/inputobjects/paymentmethodfilter>
+   PlanFilter <graphql/inputobjects/planfilter>
+   ServiceFilter <graphql/inputobjects/servicefilter>
+   SubscriptionBindingFilter <graphql/inputobjects/subscriptionbindingfilter>
+   SubscriptionFilter <graphql/inputobjects/subscriptionfilter>
+   TariffTypeFilter <graphql/inputobjects/tarifftypefilter>
+   TicketFilter <graphql/inputobjects/ticketfilter>
+   TxDetailFilter <graphql/inputobjects/txdetailfilter>
+   TxFilter <graphql/inputobjects/txfilter>
+   TxItemFilter <graphql/inputobjects/txitemfilter>
+   
+   
 .. toctree::
    :caption: Directives
    :hidden:
