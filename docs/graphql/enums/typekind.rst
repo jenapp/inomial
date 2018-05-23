@@ -1,3 +1,5 @@
+.. _typekind:
+
 __TypeKind
 ==========
 
@@ -34,5 +36,5 @@ __TypeKind
 Required by
 -----------
 
-:ref:`Type`
+:ref:`type`
    *null*
