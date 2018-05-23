@@ -18,7 +18,7 @@ Welcome to Smile's documentation!
    :caption: Schema
    :hidden:
    
-   Query <graphql/query>
+   Query <graphql/schema/query>
   
 
 .. toctree::
