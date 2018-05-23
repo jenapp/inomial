@@ -19,5 +19,5 @@ __EnumValue
 
 Required by
 -----------
-:ref:`Type`
+:ref:`type`
    *null*
