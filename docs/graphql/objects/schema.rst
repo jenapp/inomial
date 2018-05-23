@@ -1,4 +1,4 @@
-.. _Schema:
+.. _schema:
 
 __Schema
 ========
