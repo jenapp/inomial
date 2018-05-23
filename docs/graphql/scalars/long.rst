@@ -66,5 +66,5 @@ Required by
 :ref:`txitemfilter`
   *null*
   
-:ref:`UnbilledChargeSummary`
+:ref:`unbilledchargesummary`
   *Charge view summary*
