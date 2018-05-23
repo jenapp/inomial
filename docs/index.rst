@@ -43,49 +43,49 @@ Welcome to Smile's documentation!
 
 
 .. toctree::
-   :caption: Object
+   :caption: Objects
    :hidden:
    
-   Account <graphql/object/account>
-   AccountAddress <graphql/object/accountaddress>
-   AccountContact <graphql/object/accountcontact>
-   AccountCostCentre <graphql/object/accountcostcentre>
-   AllAccountCursor <graphql/object/allaccountcursor>
-   AllDraftInvoiceCursor <graphql/object/alldraftinvoicecursor>
-   AllInvoiceItemCursor <graphql/object/allinvoiceitemcursor>
-   AllPlanCursor <graphql/object/allplancursor>
-   AllSubscriptionCursor <graphql/object/allsubscriptioncursor>
-   AllTicketCursor <graphql/object/allticketcursor>
-   Binding <graphql/object/binding>
-   BindingCursor <graphql/object/bindingcursor>
-   Cdr <graphql/object/cdr>
-   CdrCursor <graphql/object/cdrcursor>
-   CdrError <graphql/object/cdrerror>
-   DraftInvoice <graphql/object/draftinvoice>
-   ItemSpecification <graphql/object/itemspecification>
-   PaymentMethod <graphql/object/paymentmethod>
-   Plan <graphql/object/plan>
-   SearchResult <graphql/object/searchresult>
-   Service <graphql/object/service>
-   Subscription <graphql/object/subscription>
-   SubscriptionBinding <graphql/object/subscriptionbinding>
-   SubscriptionBindingCursor <graphql/object/aubscriptionbindingcursor>
-   SubscriptionCursor <graphql/object/subscriptioncursor>
-   TariffType <graphql/object/tarifftype>
-   Ticket <graphql/object/ticket>
-   TicketCursor <graphql/object/ticketcursor> 
-   Tx <graphql/object/tx> 
-   TxDetail <graphql/object/txdetail>
-   TxItem <graphql/object/txitem>           
-   TxItemCursor <graphql/object/txitemcursor>           
-   Ucdr <graphql/object/ucdr>            
-   UnbilledChargeSummary <graphql/object/unbilledchargesummary>
-   __Directive <graphql/object/directive>
-   __EnumValue <graphql/object/enumvalue>
-   __Field <graphql/object/field>
-   __InputValue <graphql/object/inputvalue>
-   __Schema <graphql/object/schema>
-   __Type <graphql/object/type>
+   Account <graphql/objects/account>
+   AccountAddress <graphql/objects/accountaddress>
+   AccountContact <graphql/objects/accountcontact>
+   AccountCostCentre <graphql/objects/accountcostcentre>
+   AllAccountCursor <graphql/objects/allaccountcursor>
+   AllDraftInvoiceCursor <graphql/objects/alldraftinvoicecursor>
+   AllInvoiceItemCursor <graphql/objects/allinvoiceitemcursor>
+   AllPlanCursor <graphql/objects/allplancursor>
+   AllSubscriptionCursor <graphql/objects/allsubscriptioncursor>
+   AllTicketCursor <graphql/objects/allticketcursor>
+   Binding <graphql/objects/binding>
+   BindingCursor <graphql/objects/bindingcursor>
+   Cdr <graphql/objects/cdr>
+   CdrCursor <graphql/objects/cdrcursor>
+   CdrError <graphql/objects/cdrerror>
+   DraftInvoice <graphql/objects/draftinvoice>
+   ItemSpecification <graphql/objects/itemspecification>
+   PaymentMethod <graphql/objects/paymentmethod>
+   Plan <graphql/objects/plan>
+   SearchResult <graphql/objects/searchresult>
+   Service <graphql/objects/service>
+   Subscription <graphql/objects/subscription>
+   SubscriptionBinding <graphql/objects/subscriptionbinding>
+   SubscriptionBindingCursor <graphql/objects/aubscriptionbindingcursor>
+   SubscriptionCursor <graphql/objects/subscriptioncursor>
+   TariffType <graphql/objects/tarifftype>
+   Ticket <graphql/objects/ticket>
+   TicketCursor <graphql/objects/ticketcursor> 
+   Tx <graphql/objects/tx> 
+   TxDetail <graphql/objects/txdetail>
+   TxItem <graphql/objects/txitem>           
+   TxItemCursor <graphql/objects/txitemcursor>           
+   Ucdr <graphql/objects/ucdr>            
+   UnbilledChargeSummary <graphql/objects/unbilledchargesummary>
+   __Directive <graphql/objects/directive>
+   __EnumValue <graphql/objects/enumvalue>
+   __Field <graphql/objects/field>
+   __InputValue <graphql/objects/inputvalue>
+   __Schema <graphql/objects/schema>
+   __Type <graphql/objects/type>
 
 
 .. toctree::
