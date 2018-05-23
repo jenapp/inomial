@@ -27,7 +27,7 @@ Welcome to Smile's documentation!
    Boolean <graphql/scalars/boolean>
    Int <graphql/scalars/int>
    Long <graphql/scalars/long>
-   Millisecond <graphql/scalars/millisecond>
+   Milliseconds <graphql/scalars/milliseconds>
    String <graphql/scalars/string>
    UUID <graphql/scalars/uuid>
 
