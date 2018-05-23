@@ -1,4 +1,4 @@
-.. _subscriptionbindingfilter.rst:
+.. _subscriptionbindingfilter:
 
 SubscriptionBindingFilter
 =========================
