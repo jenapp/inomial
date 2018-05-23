@@ -127,17 +127,17 @@ Required by
 :ref:`ucdr`
   *Unmediated CDR*
 
-:ref:`Directive`
+:ref:`directive`
   *null*
   
 :ref:`enumvalue`
   *null*
   
-:ref:`Field`
+:ref:`field`
    *null*
 
-:ref:`InputValue`
+:ref:`inputvalue`
    *null*
 
-:ref:`Type`
+:ref:`type`
    *null*
