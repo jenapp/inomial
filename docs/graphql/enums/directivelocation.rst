@@ -1,3 +1,5 @@
+.. _directivelocation:
+
 __DirectiveLocation
 ===================
 
@@ -59,5 +61,5 @@ An enum describing valid locations where a directive can be placed.
 Required by
 -----------
 
-:ref:`Directive`
+:ref:`directive`
    *null*
