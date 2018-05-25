@@ -18,6 +18,7 @@ Welcome to Smile's GraphQL API documentation!
    :caption: Schema
    :hidden:
    :maxdepth: 1
+   :titlesonly:
    
    Query <graphql/schema/query>
   
