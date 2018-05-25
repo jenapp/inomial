@@ -121,7 +121,8 @@ Welcome to Smile's GraphQL API documentation!
 .. toctree::
    :caption: Directives
    :hidden:
-   
+   :titlesonly:
+      
    include <graphql/directives/include>
    skip <graphql/directives/skip>
       
