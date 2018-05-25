@@ -129,8 +129,8 @@ Welcome to Smile's GraphQL API documentation!
    
 .. toctree::
    :caption: REST APIs
-   :maxdepth: 0
    :hidden:
+   :titlesonly:
    
    apis/create
    apis/account
