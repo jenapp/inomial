@@ -17,6 +17,7 @@ Welcome to Smile's GraphQL API documentation!
 .. toctree::
    :caption: Schema
    :hidden:
+   :maxdepth: 1
    
    Query <graphql/schema/query>
   
