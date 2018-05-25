@@ -41,7 +41,7 @@ Welcome to Smile's GraphQL API documentation!
    :hidden:
    :titlesonly:  
  
- __DirectiveLocation <graphql/enums/directivelocation>
+   __DirectiveLocation <graphql/enums/directivelocation>
    __TypeKind <graphql/enums/typekind>
 
 
