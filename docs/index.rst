@@ -17,7 +17,6 @@ Welcome to Smile's GraphQL API documentation!
 .. toctree::
    :caption: Schema
    :hidden:
-   :maxdepth: 1
    :titlesonly:
    
    Query <graphql/schema/query>
@@ -26,6 +25,7 @@ Welcome to Smile's GraphQL API documentation!
 .. toctree::
    :caption: Scalars
    :hidden:
+   :titlesonly:
    
    BigDecimal <graphql/scalars/bigdecimal>
    Boolean <graphql/scalars/boolean>
@@ -39,15 +39,17 @@ Welcome to Smile's GraphQL API documentation!
 .. toctree::
    :caption: Enums
    :hidden:
-   
-   __DirectiveLocation <graphql/enums/directivelocation>
+   :titlesonly:  
+ 
+ __DirectiveLocation <graphql/enums/directivelocation>
    __TypeKind <graphql/enums/typekind>
 
 
 .. toctree::
    :caption: Objects
    :hidden:
-   
+   :titlesonly:  
+ 
    Account <graphql/objects/account>
    AccountAddress <graphql/objects/accountaddress>
    AccountContact <graphql/objects/accountcontact>
@@ -93,7 +95,8 @@ Welcome to Smile's GraphQL API documentation!
 .. toctree::
    :caption: Input objects
    :hidden:
-   
+   :titlesonly:
+      
    AccountAddressFilter <graphql/inputobjects/accountaddressfilter>
    AccountContactFilter <graphql/inputobjects/accountcontactfilter>
    AccountCostCentreFilter <graphql/inputobjects/accountcostcentrefilter>
