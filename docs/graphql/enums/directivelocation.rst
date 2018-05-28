@@ -17,6 +17,7 @@ An enum describing valid locations where a directive can be placed.
     
     # Indicates the directive is valid on fields.
     FIELD
+    
     # Indicates the directive is valid on fragment definitions.
     FRAGMENT_DEFINITION
     
