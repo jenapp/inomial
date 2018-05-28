@@ -25,3 +25,9 @@ Smile GraphQL is available at the following endpoint:
 ::
 
   https://showcase.inomial.net/live/api/ql
+
+About this reference
+--------------------
+This is a reference to every type available in the Smile GraphQL API. You can use the sidebar to view the available types. Start from  :ref:`query` to see the API's entry-point fields.
+
+You can also access reference material using the Smile GraphiQL App Docs sidebar.
