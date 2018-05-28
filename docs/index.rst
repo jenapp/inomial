@@ -13,13 +13,7 @@ Welcome to Smile's GraphQL API documentation!
    graphql/graphql-intro
    graphql/resources
 
-   
-.. toctree::
-   :caption: Schema
-   :hidden:
-   :titlesonly:
-   
-   Query <graphql/schema/query>
+   graphql/schema/schema   
   
 
 .. toctree::
