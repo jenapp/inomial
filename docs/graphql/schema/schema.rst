@@ -8,7 +8,7 @@ The query type defines GraphQL operations that retrieve data from the server.
 
 .. toctree::
    :caption: Schema
-   :hidden:
+
    :titlesonly:
    
    Query <graphql/schema/query>
