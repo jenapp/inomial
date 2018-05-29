@@ -86,9 +86,9 @@ contactTitle           String
 givenName              String
 familyName             String
 emailAddress           String
-serviceAddress         Json object For more information, see :ref:`serviceAddress attributes`.
-billAddress            Json object For more information, see :ref:`billAddress attributes`.
-phoneContact           Json object For more information, see :ref:`phoneContact attributes`.
+serviceAddress         Json object For more information, see :ref:`accserviceAddress attributes`.
+billAddress            Json object For more information, see :ref:`accbillAddress attributes`.
+phoneContact           Json object For more information, see :ref:`accphoneContact attributes`.
 fax                    String
 dob                    String      Format: yyyy-MM-dd 
                                    
@@ -105,7 +105,7 @@ custom                 Json object Data is in code/value pairs. Value can be an 
                                    field from provided code in Smile, a new one will be created.
 ====================== =========== =================================================================================== =============
 
-.. _serviceAddress attributes:
+.. _accserviceAddress attributes:
 
 serviceAddress attributes
 -------------------------
@@ -127,7 +127,7 @@ state         String    Allowed values: "select code,name from addressLookup whe
 country       String
 ============= ========= ============================================================================ =========
 
-.. _billAddress attributes:
+.. _accbillAddress attributes:
 
 billAddress attributes
 ----------------------
@@ -149,7 +149,7 @@ state         String    Allowed values: "select code,name from addressLookup whe
 country       String
 ============= ========= ============================================================================== =========
 
-.. _phoneContact attributes:
+.. _accphoneContact attributes:
 
 phoneContact attributes
 -----------------------
