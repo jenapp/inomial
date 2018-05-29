@@ -1,13 +1,17 @@
 @import url("theme.css");
 
 .wy-menu-vertical p.caption {
-  color: #6c9d3c ;
+  color: #6c9d3c;
 }
 
 .wy-side-nav-search {
-  background-color: #FEFEFE ;
+  background-color: #FEFEFE;
 }
 
 h1 {
   font-size: 150%;
+}
+
+h2, .rst-content .toctree-wrapper p.caption {
+  font-size: 125%;
 }
