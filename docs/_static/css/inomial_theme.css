@@ -56,6 +56,10 @@ p {
   border-radius: 15px;
 }
 
+.wy-menu-vertical a {
+  color: #b3b3b3 !important;
+}
+
 a {
   color: #6c9d3c;
 }
