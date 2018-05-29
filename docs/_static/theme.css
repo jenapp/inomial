@@ -1,3 +1,5 @@
-.wy-menu-vertical p.caption {
-  color: #4b7520;
-  }
+@import url("theme.css")
+
+  .wy-menu-vertical p.caption {
+    color: #4b7520;
+    }
