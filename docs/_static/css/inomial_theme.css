@@ -37,6 +37,7 @@ h3 {
 }
 
 /* OTHER */
-pre {
+
+rst-content pre.literal-block, .rst-content div[class^='highlight'] {
   background: #e9f0e0;
 }
