@@ -73,7 +73,7 @@ Welcome to Smile's GraphQL API documentation!
    Service <graphql/objects/service>
    Subscription <graphql/objects/subscription>
    SubscriptionBinding <graphql/objects/subscriptionbinding>
-   SubscriptionBindingCursor <graphql/objects/aubscriptionbindingcursor>
+   SubscriptionBindingCursor <graphql/objects/subscriptionbindingcursor>
    SubscriptionCursor <graphql/objects/subscriptioncursor>
    TariffType <graphql/objects/tarifftype>
    Ticket <graphql/objects/ticket>
