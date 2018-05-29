@@ -56,10 +56,10 @@ p {
   border-radius: 15px;
 }
 
-a.hover {
+a:hover {
   color: #6c9d3c;
 }
 
-a.visited {
+a:visited {
   color: #4c7429;
 }
