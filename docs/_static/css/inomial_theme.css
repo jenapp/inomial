@@ -47,3 +47,11 @@ p {
 .highlight {
   background: #e9f0e0;
 }
+
+.fa-github {
+  color: #fff;
+  background-color: #6c9d3c;
+  display: block;
+  padding: 6px 10px;
+  border-radius: 15px;
+}
