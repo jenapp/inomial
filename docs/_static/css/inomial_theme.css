@@ -31,3 +31,12 @@ h2, .rst-content .toctree-wrapper p.caption {
   font-family: "VAGRoundedLTPro-Light","Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 125%;
 }
+h3 {
+  font-family: "VAGRoundedLTPro-Light","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 115%;
+}
+
+/* OTHER */
+pre {
+  background: #e9f0e0;
+}
