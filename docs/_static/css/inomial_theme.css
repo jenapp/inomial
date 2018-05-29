@@ -1,13 +1,13 @@
 @import url("theme.css");
 
-#SIDEBAR
+# SIDEBAR
 
-#top block
+# top block
 .wy-side-nav-search {
   background-color: #FEFEFE;
 }
 
-#font colour
+# font colour
 .wy-menu-vertical p.caption {
   color: #6c9d3c;
 }
