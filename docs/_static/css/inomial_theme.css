@@ -56,8 +56,12 @@ p {
   border-radius: 15px;
 }
 
-a:hover {
+a {
   color: #6c9d3c;
+}
+
+a:hover {
+  color: #aec68b;
 }
 
 a:visited {
