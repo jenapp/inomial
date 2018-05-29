@@ -1,7 +1,7 @@
 .. _alldraftinvoicecursor:
 
 AllDraftInvoiceCursor
-====================
+======================
 AllDraftInvoiceCursor
 
 ::
@@ -17,6 +17,6 @@ AllDraftInvoiceCursor
   }
 
 Required by
------------
+------------
 :ref:`query`
   *Smile's GraphQL Query type*
