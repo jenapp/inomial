@@ -18,10 +18,12 @@
 
 /* FONTS */
 h1 {
+  font-family: "VAGRoundedLTPro-Light","Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 160%;
   color: #6c9d3c;
 }
 
 h2, .rst-content .toctree-wrapper p.caption {
+  font-family: "VAGRoundedLTPro-Light","Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 125%;
 }
