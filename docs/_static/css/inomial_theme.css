@@ -16,6 +16,10 @@
   color: #6c9d3c;
 }
 
+.wy-menu-vertical li.current a:hover {
+  background: #EEEEEE;
+}
+
 /* FONTS */
 h1 {
   font-family: "VAGRoundedLTPro-Light","Helvetica Neue", Helvetica, Arial, sans-serif;
