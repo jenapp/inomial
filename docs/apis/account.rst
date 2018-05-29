@@ -86,9 +86,9 @@ contactTitle           String
 givenName              String
 familyName             String
 emailAddress           String
-serviceAddress         Json object For more information, see `serviceAddress attributes`_.
-billAddress            Json object For more information, see `billAddress attributes`_.
-phoneContact           Json object For more information, see `phoneContact attributes`_.
+serviceAddress         Json object For more information, see :ref:`serviceAddress attributes`.
+billAddress            Json object For more information, see :ref:`billAddress attributes`.
+phoneContact           Json object For more information, see :ref:`phoneContact attributes`.
 fax                    String
 dob                    String      Format: yyyy-MM-dd 
                                    
